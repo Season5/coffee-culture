@@ -4,15 +4,7 @@
         "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout-v21/intro_layout2.xml"
     },
     {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout-v21/intro_layout.xml",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout-v21/intro_layout.xml"
-    },
-    {
         "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout-v21/intro_layout.xml",
         "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout-v21/intro_layout.xml"
-    },
-    {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout-v21/intro_layout2.xml",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout-v21/intro_layout2.xml"
     }
 ]

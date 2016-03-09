@@ -7,7 +7,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.infoparks.wapi.infoparks.Splash">
+    tools:context="com.infoparks.wapi.infoparks.Splash"
+    android:background="#780606">
 
     <TextView
         android:layout_width="wrap_content"
@@ -15,11 +16,13 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="&quot;Coffee is a language in itself.&quot; "
         android:id="@+id/textView13"
-        android:textSize="24dp"
+        android:textSize="35dp"
         android:textIsSelectable="false"
         android:layout_marginBottom="118dp"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:textColor="#fed982"
+        android:textAlignment="center" />
 
     <ImageView
         android:layout_width="wrap_content"
@@ -28,6 +31,7 @@
         android:src="@drawable/coffeesplash"
         android:layout_above="@+id/textView13"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:background="#00770404" />
 
 </RelativeLayout>
