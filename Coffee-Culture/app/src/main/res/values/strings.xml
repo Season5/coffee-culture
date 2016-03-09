@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Coffee-Culture</string>
+    <string name="skip">Skipping</string>
 </resources>

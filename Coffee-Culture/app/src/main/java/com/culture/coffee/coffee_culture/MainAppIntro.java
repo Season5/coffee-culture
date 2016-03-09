@@ -1,10 +1,11 @@
 package com.culture.coffee.coffee_culture;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.widget.Toast;
 
 import com.github.paolorotolo.appintro.AppIntro;
-import com.github.paolorotolo.appintro.AppIntroFragment;
 
 /**
  * Created by mue on 3/9/16.
@@ -28,27 +29,34 @@ public class MainAppIntro extends AppIntro {
 
         // OPTIONAL METHODS
         // Override bar/separator color.
-        setBarColor(Color.parseColor("#3F51B5"));
-        setSeparatorColor(Color.parseColor("#2196F3"));
+        setBarColor(Color.parseColor("#0D0A05"));
+        setSeparatorColor(Color.parseColor("#BF944A"));
 
         // Hide Skip/Done button.
-        showSkipButton(false);
-        setProgressButtonEnabled(false);
+        showSkipButton(true);
+        setProgressButtonEnabled(true);
 
         // Turn vibration on and set intensity.
         // NOTE: you will probably need to ask VIBRATE permisssion in Manifest.
         setVibrate(true);
         setVibrateIntensity(30);
     }
+    private void loadMain(){
+        Intent intent = new Intent(this, Main.class);
+        startActivity(intent);
+    }
 
     @Override
     public void onSkipPressed() {
         // Do something when users tap on Skip button.
+        loadMain();
+        Toast.makeText(getApplicationContext(), getString(R.string.skip), Toast.LENGTH_SHORT).show();
     }
 
     @Override
     public void onDonePressed() {
         // Do something when users tap on Done button.
+        loadMain();
     }
 
     @Override
