@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_menu_overflow_material.png",
+        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_menu_overflow_material.png"
+    },
+    {
         "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_go_search_api_material.png",
         "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_go_search_api_material.png"
     },
@@ -8,28 +12,12 @@
         "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_btn_checkbox_unchecked_mtrl.png"
     },
     {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_menu_overflow_material.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_menu_overflow_material.png"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_menu_copy_material.png",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_menu_copy_material.png"
-    },
-    {
         "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_menu_selectall_material.png",
         "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_menu_selectall_material.png"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_menu_overflow_material.png",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_menu_overflow_material.png"
-    },
-    {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_btn_radio_on_mtrl.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_btn_radio_on_mtrl.png"
-    },
-    {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_menu_cut_material.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_menu_cut_material.png"
+        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_menu_copy_material.png",
+        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_menu_copy_material.png"
     },
     {
         "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_btn_checkbox_checked_mtrl.png",
@@ -44,14 +32,6 @@
         "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_menu_paste_material.png"
     },
     {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_menu_paste_material.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_menu_paste_material.png"
-    },
-    {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_clear_material.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_clear_material.png"
-    },
-    {
         "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_btn_radio_off_mtrl.png",
         "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_btn_radio_off_mtrl.png"
     },
@@ -64,20 +44,8 @@
         "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_voice_search_api_material.png"
     },
     {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_btn_checkbox_checked_mtrl.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_btn_checkbox_checked_mtrl.png"
-    },
-    {
         "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_ab_back_material.png",
         "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_ab_back_material.png"
-    },
-    {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_menu_selectall_material.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_menu_selectall_material.png"
-    },
-    {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_go_search_api_material.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_go_search_api_material.png"
     },
     {
         "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_menu_share_material.png",
@@ -86,29 +54,5 @@
     {
         "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_clear_material.png",
         "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_clear_material.png"
-    },
-    {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_btn_checkbox_unchecked_mtrl.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_btn_checkbox_unchecked_mtrl.png"
-    },
-    {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_menu_copy_material.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_menu_copy_material.png"
-    },
-    {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_voice_search_api_material.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_voice_search_api_material.png"
-    },
-    {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_btn_radio_off_mtrl.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_btn_radio_off_mtrl.png"
-    },
-    {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_menu_share_material.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_menu_share_material.png"
-    },
-    {
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_ab_back_material.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_ab_back_material.png"
     }
 ]
