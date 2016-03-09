@@ -22,7 +22,7 @@ public class MainAppIntro extends AppIntro {
         addSlide(SampleSlide.newInstance(R.layout.first_fragment));
         addSlide(SampleSlide.newInstance(R.layout.second_fragment));
         addSlide(SampleSlide.newInstance(R.layout.third_fragment));
-        addSlide(SampleSlide.newInstance(R.layout.fourth_fragment));
+//        addSlide(SampleSlide.newInstance(R.layout.fourth_fragment));
 
         // Instead of fragments, you can also use our default slide
         // Just set a title, description, background and image. AppIntro will do the rest.
