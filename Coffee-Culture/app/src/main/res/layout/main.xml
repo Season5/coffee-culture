@@ -10,18 +10,26 @@
     tools:context="com.culture.coffee.coffee_culture.Main"
     android:background="#956552">
 
-
-    <TextView
-        android:layout_width="wrap_content"
+    <it.gmariotti.cardslib.library.view.CardViewNative
+        android:id="@+id/carddemo"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Coffee Culture"
-        android:id="@+id/textView"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginLeft="98dp"
-        android:layout_marginStart="98dp"
-        android:layout_alignParentTop="true" />
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="12dp"
+        android:background="#fff">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Coffee Culture"
+            android:id="@+id/textView"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="98dp"
+            android:layout_marginStart="98dp"
+            android:layout_alignParentTop="true" />
+    </it.gmariotti.cardslib.library.view.CardViewNative>
 
     <TextView
         android:layout_width="wrap_content"
