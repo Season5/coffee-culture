@@ -22,7 +22,12 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:name=".Splash"></activity>
+        <activity android:name=".Splash" />
+        <activity android:name=".Java" />
+        <activity android:name=".TheMug" />
+        <activity android:name=".CafeDeli" />
+        <activity android:name=".Dormans" />
+        <activity android:name=".ArtCaffe"></activity>
     </application>
 
 </manifest>
