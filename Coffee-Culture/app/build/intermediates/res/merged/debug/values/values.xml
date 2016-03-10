@@ -30,6 +30,33 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
+    <color name="card_activated">#CFE9F3</color>
+    <color name="card_activated_kitkat">#ADE1F4</color>
+    <color name="card_background">#FFF</color>
+    <color name="card_backgroundExpand">#515254</color>
+    <color name="card_background_header">#FFF</color>
+    <color name="card_base_cardwithlist_background_list_color">#10000000</color>
+    <color name="card_base_cardwithlist_divider_color">#E5E5E5</color>
+    <color name="card_expand_title_color">#B3B2B2</color>
+    <color name="card_foreground_activated">#99CFE9F3</color>
+    <color name="card_foreground_activated_kitkat">#99ADE1F4</color>
+    <color name="card_native_background">@android:color/transparent</color>
+    <color name="card_native_base_cardwithlist_background_list_color">#10000000</color>
+    <color name="card_native_base_cardwithlist_divider_color">#E5E5E5</color>
+    <color name="card_pressed">#7E0099CC</color>
+    <color name="card_pressed_kitkat">#10000000</color>
+    <color name="card_section_container_color">#10000000</color>
+    <color name="card_section_title_color">@android:color/black</color>
+    <color name="card_text_color_header">#000</color>
+    <color name="card_thumbnail_image_text_over_textcolor">#FFF</color>
+    <color name="card_topcolored_subtitle_textcolor">#80FFFFFF</color>
+    <color name="card_topcolored_title_textcolor">#FFF</color>
+    <color name="card_undobar_material_background_color">#323232</color>
+    <color name="card_undobar_material_text_color">#4CAF50</color>
+    <color name="cardview_dark_background">#FF202020</color>
+    <color name="cardview_light_background">#FFFAFAFA</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
@@ -84,8 +111,10 @@
     <declare-styleable name="AppCompatTextView"><attr format="reference|boolean" name="textAllCaps"/><attr name="android:textAppearance"/></declare-styleable>
     <declare-styleable name="AppCompatTheme"><attr format="boolean" name="windowActionBar"/><attr format="boolean" name="windowNoTitle"/><attr format="boolean" name="windowActionBarOverlay"/><attr format="boolean" name="windowActionModeOverlay"/><attr format="dimension|fraction" name="windowFixedWidthMajor"/><attr format="dimension|fraction" name="windowFixedHeightMinor"/><attr format="dimension|fraction" name="windowFixedWidthMinor"/><attr format="dimension|fraction" name="windowFixedHeightMajor"/><attr format="dimension|fraction" name="windowMinWidthMajor"/><attr format="dimension|fraction" name="windowMinWidthMinor"/><attr name="android:windowIsFloating"/><attr name="android:windowAnimationStyle"/><attr format="reference" name="actionBarTabStyle"/><attr format="reference" name="actionBarTabBarStyle"/><attr format="reference" name="actionBarTabTextStyle"/><attr format="reference" name="actionOverflowButtonStyle"/><attr format="reference" name="actionOverflowMenuStyle"/><attr format="reference" name="actionBarPopupTheme"/><attr format="reference" name="actionBarStyle"/><attr format="reference" name="actionBarSplitStyle"/><attr format="reference" name="actionBarTheme"/><attr format="reference" name="actionBarWidgetTheme"/><attr format="dimension" name="actionBarSize"><enum name="wrap_content" value="0"/></attr><attr format="reference" name="actionBarDivider"/><attr format="reference" name="actionBarItemBackground"/><attr format="reference" name="actionMenuTextAppearance"/><attr format="color|reference" name="actionMenuTextColor"/><attr format="reference" name="actionModeStyle"/><attr format="reference" name="actionModeCloseButtonStyle"/><attr format="reference" name="actionModeBackground"/><attr format="reference" name="actionModeSplitBackground"/><attr format="reference" name="actionModeCloseDrawable"/><attr format="reference" name="actionModeCutDrawable"/><attr format="reference" name="actionModeCopyDrawable"/><attr format="reference" name="actionModePasteDrawable"/><attr format="reference" name="actionModeSelectAllDrawable"/><attr format="reference" name="actionModeShareDrawable"/><attr format="reference" name="actionModeFindDrawable"/><attr format="reference" name="actionModeWebSearchDrawable"/><attr format="reference" name="actionModePopupWindowStyle"/><attr format="reference" name="textAppearanceLargePopupMenu"/><attr format="reference" name="textAppearanceSmallPopupMenu"/><attr format="reference" name="dialogTheme"/><attr format="dimension" name="dialogPreferredPadding"/><attr format="reference" name="listDividerAlertDialog"/><attr format="reference" name="actionDropDownStyle"/><attr format="dimension" name="dropdownListPreferredItemHeight"/><attr format="reference" name="spinnerDropDownItemStyle"/><attr format="reference" name="homeAsUpIndicator"/><attr format="reference" name="actionButtonStyle"/><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/><attr format="reference" name="selectableItemBackground"/><attr format="reference" name="selectableItemBackgroundBorderless"/><attr format="reference" name="borderlessButtonStyle"/><attr format="reference" name="dividerVertical"/><attr format="reference" name="dividerHorizontal"/><attr format="reference" name="activityChooserViewStyle"/><attr format="reference" name="toolbarStyle"/><attr format="reference" name="toolbarNavigationButtonStyle"/><attr format="reference" name="popupMenuStyle"/><attr format="reference" name="popupWindowStyle"/><attr format="reference|color" name="editTextColor"/><attr format="reference" name="editTextBackground"/><attr format="reference" name="imageButtonStyle"/><attr format="reference" name="textAppearanceSearchResultTitle"/><attr format="reference" name="textAppearanceSearchResultSubtitle"/><attr format="reference|color" name="textColorSearchUrl"/><attr format="reference" name="searchViewStyle"/><attr format="dimension" name="listPreferredItemHeight"/><attr format="dimension" name="listPreferredItemHeightSmall"/><attr format="dimension" name="listPreferredItemHeightLarge"/><attr format="dimension" name="listPreferredItemPaddingLeft"/><attr format="dimension" name="listPreferredItemPaddingRight"/><attr format="reference" name="dropDownListViewStyle"/><attr format="reference" name="listPopupWindowStyle"/><attr format="reference" name="textAppearanceListItem"/><attr format="reference" name="textAppearanceListItemSmall"/><attr format="reference" name="panelBackground"/><attr format="dimension" name="panelMenuListWidth"/><attr format="reference" name="panelMenuListTheme"/><attr format="reference" name="listChoiceBackgroundIndicator"/><attr format="color" name="colorPrimary"/><attr format="color" name="colorPrimaryDark"/><attr format="color" name="colorAccent"/><attr format="color" name="colorControlNormal"/><attr format="color" name="colorControlActivated"/><attr format="color" name="colorControlHighlight"/><attr format="color" name="colorButtonNormal"/><attr format="color" name="colorSwitchThumbNormal"/><attr format="reference" name="controlBackground"/><attr format="reference" name="alertDialogStyle"/><attr format="reference" name="alertDialogButtonGroupStyle"/><attr format="boolean" name="alertDialogCenterButtons"/><attr format="reference" name="alertDialogTheme"/><attr format="reference|color" name="textColorAlertDialogListItem"/><attr format="reference" name="buttonBarPositiveButtonStyle"/><attr format="reference" name="buttonBarNegativeButtonStyle"/><attr format="reference" name="buttonBarNeutralButtonStyle"/><attr format="reference" name="autoCompleteTextViewStyle"/><attr format="reference" name="buttonStyle"/><attr format="reference" name="buttonStyleSmall"/><attr format="reference" name="checkboxStyle"/><attr format="reference" name="checkedTextViewStyle"/><attr format="reference" name="editTextStyle"/><attr format="reference" name="radioButtonStyle"/><attr format="reference" name="ratingBarStyle"/><attr format="reference" name="ratingBarStyleIndicator"/><attr format="reference" name="ratingBarStyleSmall"/><attr format="reference" name="seekBarStyle"/><attr format="reference" name="spinnerStyle"/><attr format="reference" name="switchStyle"/></declare-styleable>
     <declare-styleable name="ButtonBarLayout"><attr format="boolean" name="allowStacking"/></declare-styleable>
+    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/></declare-styleable>
     <declare-styleable name="CompoundButton"><attr name="android:button"/><attr format="color" name="buttonTint"/><attr name="buttonTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
     <declare-styleable name="DrawerArrowToggle"><attr format="color" name="color"/><attr format="boolean" name="spinBars"/><attr format="dimension" name="drawableSize"/><attr format="dimension" name="gapBetweenBars"/><attr format="dimension" name="arrowHeadLength"/><attr format="dimension" name="arrowShaftLength"/><attr format="dimension" name="barLength"/><attr format="dimension" name="thickness"/></declare-styleable>
+    <declare-styleable name="ForegroundLinearLayout"><attr name="android:foreground"/><attr name="android:foregroundInsidePadding"/><attr name="android:foregroundGravity"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_weight"/><attr name="android:layout_gravity"/></declare-styleable>
     <declare-styleable name="ListPopupWindow"><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/></declare-styleable>
@@ -96,12 +125,15 @@
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
     <declare-styleable name="SearchView"><attr format="reference" name="layout"/><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr format="string" name="defaultQueryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/><attr format="reference" name="closeIcon"/><attr format="reference" name="goIcon"/><attr format="reference" name="searchIcon"/><attr format="reference" name="searchHintIcon"/><attr format="reference" name="voiceIcon"/><attr format="reference" name="commitIcon"/><attr format="reference" name="suggestionRowLayout"/><attr format="reference" name="queryBackground"/><attr format="reference" name="submitBackground"/><attr name="android:focusable"/></declare-styleable>
     <declare-styleable name="Spinner"><attr name="android:prompt"/><attr name="popupTheme"/><attr name="android:popupBackground"/><attr name="android:dropDownWidth"/><attr name="android:entries"/></declare-styleable>
+    <declare-styleable name="StaggeredGridView"><attr format="integer" name="column_count"/><attr format="integer" name="column_count_portrait"/><attr format="integer" name="column_count_landscape"/><attr format="dimension" name="item_margin"/><attr format="dimension" name="grid_paddingLeft"/><attr format="dimension" name="grid_paddingRight"/><attr format="dimension" name="grid_paddingTop"/><attr format="dimension" name="grid_paddingBottom"/></declare-styleable>
     <declare-styleable name="SwitchCompat"><attr name="android:thumb"/><attr format="reference" name="track"/><attr name="android:textOn"/><attr name="android:textOff"/><attr format="dimension" name="thumbTextPadding"/><attr format="reference" name="switchTextAppearance"/><attr format="dimension" name="switchMinWidth"/><attr format="dimension" name="switchPadding"/><attr format="boolean" name="splitTrack"/><attr format="boolean" name="showText"/></declare-styleable>
     <declare-styleable name="TextAppearance"><attr name="android:textSize"/><attr name="android:textColor"/><attr name="android:textStyle"/><attr name="android:typeface"/><attr name="textAllCaps"/><attr name="android:shadowColor"/><attr name="android:shadowDy"/><attr name="android:shadowDx"/><attr name="android:shadowRadius"/></declare-styleable>
     <declare-styleable name="Toolbar"><attr format="reference" name="titleTextAppearance"/><attr format="reference" name="subtitleTextAppearance"/><attr name="title"/><attr name="subtitle"/><attr name="android:gravity"/><attr format="dimension" name="titleMargins"/><attr format="dimension" name="titleMarginStart"/><attr format="dimension" name="titleMarginEnd"/><attr format="dimension" name="titleMarginTop"/><attr format="dimension" name="titleMarginBottom"/><attr name="contentInsetStart"/><attr name="contentInsetEnd"/><attr name="contentInsetLeft"/><attr name="contentInsetRight"/><attr format="dimension" name="maxButtonHeight"/><attr format="reference" name="collapseIcon"/><attr format="string" name="collapseContentDescription"/><attr name="popupTheme"/><attr format="reference" name="navigationIcon"/><attr format="string" name="navigationContentDescription"/><attr name="android:minHeight"/><attr name="logo"/><attr format="string" name="logoDescription"/><attr format="color" name="titleTextColor"/><attr format="color" name="subtitleTextColor"/></declare-styleable>
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/><attr format="reference" name="theme"/><attr name="android:theme"/></declare-styleable>
     <declare-styleable name="ViewBackgroundHelper"><attr name="android:background"/><attr format="color" name="backgroundTint"/><attr name="backgroundTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
+    <declare-styleable name="card_listItem"><attr format="dimension" name="card_list_item_dividerHeight"/></declare-styleable>
+    <declare-styleable name="card_options"><attr format="reference" name="card_layout_resourceID"/><attr format="reference" name="card_shadow_layout_resourceID"/><attr format="reference" name="card_header_layout_resourceID"/><attr format="reference" name="card_thumbnail_layout_resourceID"/><attr format="reference" name="list_card_layout_resourceID"/><attr format="reference" name="list_card_layout_resourceIDs"/></declare-styleable>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
     <dimen name="abc_action_bar_default_padding_end_material">0dp</dimen>
@@ -169,13 +201,142 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="actions_icon_height">54dp</dimen>
+    <dimen name="actions_icon_width">54dp</dimen>
+    <dimen name="actions_padding">16dp</dimen>
+    <dimen name="actions_padding_left">8dp</dimen>
+    <dimen name="actions_textsize">14sp</dimen>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_background_default_radius">2dp</dimen>
+    <dimen name="card_base_cardwithlist_dividerHeight">1dp</dimen>
+    <dimen name="card_base_cardwithlist_layout_leftmargin">0dp</dimen>
+    <dimen name="card_base_cardwithlist_layout_rightmargin">0dp</dimen>
+    <dimen name="card_base_cardwithlist_list_margin_left">0dp</dimen>
+    <dimen name="card_base_cardwithlist_list_margin_top">10dp</dimen>
+    <dimen name="card_base_empty_height">96dp</dimen>
+    <dimen name="card_content_outer_view_margin_bottom">0dp</dimen>
+    <dimen name="card_content_outer_view_margin_left">0dp</dimen>
+    <dimen name="card_content_outer_view_margin_right">0dp</dimen>
+    <dimen name="card_content_outer_view_margin_top">0dp</dimen>
+    <dimen name="card_default_native_margin_bottom">12dp</dimen>
+    <dimen name="card_default_native_margin_left">8dp</dimen>
+    <dimen name="card_default_native_margin_right">8dp</dimen>
+    <dimen name="card_default_native_margin_top">12dp</dimen>
+    <dimen name="card_expand_layout_padding">2dp</dimen>
+    <dimen name="card_expand_native_layout_padding_bottom">12dp</dimen>
+    <dimen name="card_expand_native_layout_padding_left">12dp</dimen>
+    <dimen name="card_expand_native_layout_padding_right">12dp</dimen>
+    <dimen name="card_expand_native_layout_padding_top">12dp</dimen>
+    <dimen name="card_expand_native_margin_left">0dp</dimen>
+    <dimen name="card_expand_native_margin_right">0dp</dimen>
+    <dimen name="card_expand_native_simple_title_padding_left">0dp</dimen>
+    <dimen name="card_expand_native_simple_title_padding_right">0dp</dimen>
+    <dimen name="card_expand_native_simple_title_text_size">14sp</dimen>
+    <dimen name="card_expand_simple_title_paddingLeft">10dp</dimen>
+    <dimen name="card_expand_simple_title_paddingRight">10dp</dimen>
+    <dimen name="card_expand_simple_title_text_size">14sp</dimen>
+    <dimen name="card_header_button_margin_right">2dp</dimen>
+    <dimen name="card_header_button_overflow_margin_right">3dp</dimen>
+    <dimen name="card_header_button_padding_bottom">0dp</dimen>
+    <dimen name="card_header_button_padding_left">10dp</dimen>
+    <dimen name="card_header_button_padding_right">0dp</dimen>
+    <dimen name="card_header_button_padding_top">0dp</dimen>
+    <dimen name="card_header_default_padding">12dp</dimen>
+    <dimen name="card_header_native_button_margin_left">0dp</dimen>
+    <dimen name="card_header_native_button_margin_right">0dp</dimen>
+    <dimen name="card_header_native_default_paddingBottom">0dp</dimen>
+    <dimen name="card_header_native_default_paddingLeft">12dp</dimen>
+    <dimen name="card_header_native_default_paddingRight">12dp</dimen>
+    <dimen name="card_header_native_default_paddingTop">12dp</dimen>
+    <dimen name="card_header_native_simple_title_margin">0dp</dimen>
+    <dimen name="card_header_native_simple_title_margin_bottom">0dp</dimen>
+    <dimen name="card_header_native_simple_title_margin_left">0dp</dimen>
+    <dimen name="card_header_native_simple_title_margin_right">0dp</dimen>
+    <dimen name="card_header_native_simple_title_margin_top">0dp</dimen>
+    <dimen name="card_header_native_simple_title_text_size">18sp</dimen>
+    <dimen name="card_header_outer_view_margin_bottom">0dp</dimen>
+    <dimen name="card_header_outer_view_margin_left">0dp</dimen>
+    <dimen name="card_header_outer_view_margin_right">0dp</dimen>
+    <dimen name="card_header_outer_view_margin_top">0dp</dimen>
+    <dimen name="card_header_simple_title_margin_bottom">0dp</dimen>
+    <dimen name="card_header_simple_title_margin_left">10dp</dimen>
+    <dimen name="card_header_simple_title_margin_right">20dp</dimen>
+    <dimen name="card_header_simple_title_margin_top">5dp</dimen>
+    <dimen name="card_header_simple_title_text_size">20sp</dimen>
+    <dimen name="card_main_content_native_cardwithlist_paddingBottom">12dp</dimen>
+    <dimen name="card_main_content_native_cardwithlist_paddingLeft">0dp</dimen>
+    <dimen name="card_main_content_native_cardwithlist_paddingRight">0dp</dimen>
+    <dimen name="card_main_content_native_cardwithlist_paddingTop">12dp</dimen>
+    <dimen name="card_main_content_native_default_paddingBottom">12dp</dimen>
+    <dimen name="card_main_content_native_default_paddingLeft">12dp</dimen>
+    <dimen name="card_main_content_native_default_paddingRight">12dp</dimen>
+    <dimen name="card_main_content_native_default_paddingTop">12dp</dimen>
+    <dimen name="card_main_content_native_material_large_image_paddingBottom">16dp</dimen>
+    <dimen name="card_main_content_native_material_large_image_paddingLeft">16dp</dimen>
+    <dimen name="card_main_content_native_material_large_image_paddingRight">16dp</dimen>
+    <dimen name="card_main_content_native_material_large_image_paddingTop">16dp</dimen>
+    <dimen name="card_main_content_native_simple_title_text_size">16sp</dimen>
+    <dimen name="card_main_layout_native_view_margin_bottom">0dp</dimen>
+    <dimen name="card_main_layout_native_view_margin_left">0dp</dimen>
+    <dimen name="card_main_layout_native_view_margin_right">0dp</dimen>
+    <dimen name="card_main_layout_native_view_margin_top">0dp</dimen>
+    <dimen name="card_main_layout_view_margin_bottom">0dp</dimen>
+    <dimen name="card_main_layout_view_margin_left">0dp</dimen>
+    <dimen name="card_main_layout_view_margin_right">0dp</dimen>
+    <dimen name="card_main_layout_view_margin_top">0dp</dimen>
+    <dimen name="card_main_native_simple_title_margin_left">0dp</dimen>
+    <dimen name="card_main_native_simple_title_margin_top">0dp</dimen>
+    <dimen name="card_main_simple_title_margin_bottom">0dp</dimen>
+    <dimen name="card_main_simple_title_margin_left">5dp</dimen>
+    <dimen name="card_main_simple_title_margin_right">0dp</dimen>
+    <dimen name="card_main_simple_title_margin_top">0dp</dimen>
+    <dimen name="card_material_largeimage_height">200dp</dimen>
+    <dimen name="card_section_container_padding_left">15dp</dimen>
+    <dimen name="card_section_container_padding_right">15dp</dimen>
+    <dimen name="card_section_title">18sp</dimen>
+    <dimen name="card_section_title_margin_top">10dp</dimen>
+    <dimen name="card_shadow_height">3dp</dimen>
+    <dimen name="card_shadow_view_margin_bottom">0dp</dimen>
+    <dimen name="card_shadow_view_margin_left">@dimen/card_background_default_radius</dimen>
+    <dimen name="card_shadow_view_margin_right">@dimen/card_background_default_radius</dimen>
+    <dimen name="card_shadow_view_margin_top">0dp</dimen>
+    <dimen name="card_thumbnail_height">72dp</dimen>
+    <dimen name="card_thumbnail_image_text_over_padding_bottom">16dp</dimen>
+    <dimen name="card_thumbnail_image_text_over_padding_left">16dp</dimen>
+    <dimen name="card_thumbnail_image_text_over_padding_right">16dp</dimen>
+    <dimen name="card_thumbnail_image_text_over_padding_top">16dp</dimen>
+    <dimen name="card_thumbnail_image_text_over_textsize">24sp</dimen>
+    <dimen name="card_thumbnail_width">72dp</dimen>
+    <dimen name="card_topcolored_layout_minHeigth">72dp</dimen>
+    <dimen name="card_topcolored_layout_padding">16dp</dimen>
+    <dimen name="card_topcolored_subtitle_paddingtop">18dp</dimen>
+    <dimen name="card_topcolored_subtitle_textsize">14dp</dimen>
+    <dimen name="card_topcolored_title_textsize">22dp</dimen>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
+    <dimen name="grid_card_padding_bottom">2dp</dimen>
+    <dimen name="grid_card_padding_left">2dp</dimen>
+    <dimen name="grid_card_padding_right">2dp</dimen>
+    <dimen name="grid_card_padding_top">2dp</dimen>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
+    <dimen name="list_card_padding_bottom">6dp</dimen>
+    <dimen name="list_card_padding_left">8dp</dimen>
+    <dimen name="list_card_padding_right">8dp</dimen>
+    <dimen name="list_card_padding_top">2dp</dimen>
+    <dimen name="native_list_card_margin_bottom">6dp</dimen>
+    <dimen name="native_list_card_margin_left">0dp</dimen>
+    <dimen name="native_list_card_margin_right">0dp</dimen>
+    <dimen name="native_list_card_margin_top">6dp</dimen>
+    <dimen name="native_recyclerview_card_margin_bottom">6dp</dimen>
+    <dimen name="native_recyclerview_card_margin_left">0dp</dimen>
+    <dimen name="native_recyclerview_card_margin_right">0dp</dimen>
+    <dimen name="native_recyclerview_card_margin_top">6dp</dimen>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
@@ -193,7 +354,17 @@
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="list_card_swipe_distance_divisor">2</integer>
+    <integer name="list_card_undobar_hide_delay">5000</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
+    <plurals name="card_selected_items">
+        <item quantity="one">1 item selected</item>
+        <item quantity="other">%d items selected</item>
+    </plurals>
+    <plurals name="list_card_undo_items">
+        <item quantity="one">1 card removed</item>
+        <item quantity="other">%d cards removed</item>
+    </plurals>
     <string name="First">first</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -215,8 +386,14 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">Coffee-Culture</string>
+    <string name="card_empty_cardwithlist_text">No data....</string>
+    <string name="card_native_font_fontFamily_top_colored">sans-serif</string>
+    <string name="card_native_progressbar_text">Loading...</string>
+    <string name="card_progressbar_cardwithlist_text">Loading data...</string>
     <string name="define_appintro"/>
     <string name="done_button">DONE</string>
+    <string name="font_fontFamily_medium">sans-serif</string>
+    <string name="font_fontFamily_regular">sans-serif</string>
     <string name="library_appintro_author">Paolo Rotolo</string>
     <string name="library_appintro_authorWebsite">http://paolorotolo.github.io/</string>
     <string name="library_appintro_classPath">com.github.paolorotolo.appintro</string>
@@ -227,6 +404,7 @@
     <string name="library_appintro_libraryWebsite">https://github.com/PaoloRotolo/AppIntro</string>
     <string name="library_appintro_licenseId">apache_2_0</string>
     <string name="library_appintro_repositoryLink">https://github.com/PaoloRotolo/AppIntro</string>
+    <string name="list_card_undo_title">Undo</string>
     <string name="skip">Skipping</string>
     <string name="skip_button">SKIP</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -1195,6 +1373,20 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
+    <style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
 
@@ -1535,4 +1727,499 @@
     <style name="Widget.AppCompat.TextView.SpinnerItem" parent="Base.Widget.AppCompat.TextView.SpinnerItem"/>
     <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
     <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation"/>
+    <style name="card">
+        <!-- this style should be empty -->
+    </style>
+    <style name="card.base_simple_title">
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">left|center_vertical</item>
+        <item name="android:layout_marginLeft">@dimen/card_main_simple_title_margin_left</item>
+        <item name="android:layout_marginTop">@dimen/card_main_simple_title_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/card_main_simple_title_margin_right</item>
+        <item name="android:layout_marginBottom">@dimen/card_main_simple_title_margin_bottom</item>
+    </style>
+    <style name="card.content_outer_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:minHeight">@dimen/card_base_empty_height</item>
+        <item name="android:layout_marginTop">@dimen/card_content_outer_view_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/card_content_outer_view_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/card_content_outer_view_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/card_content_outer_view_margin_right</item>
+    </style>
+    <style name="card.expand_simple_title">
+        <item name="android:layout_gravity">left|center_vertical</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/card_expand_simple_title_text_size</item>
+        <item name="android:paddingLeft">@dimen/card_expand_simple_title_paddingLeft</item>
+        <item name="android:paddingRight">@dimen/card_expand_simple_title_paddingRight</item>
+        <item name="android:textColor">@color/card_expand_title_color</item>
+    </style>
+    <style name="card.header_button_base">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:paddingLeft">@dimen/card_header_button_padding_left</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginRight">@dimen/card_header_button_margin_right</item>
+    </style>
+    <style name="card.header_button_base.expand">
+        <item name="android:background">@drawable/card_menu_button_expand</item>
+    </style>
+    <style name="card.header_button_base.other">
+
+    </style>
+    <style name="card.header_button_base.overflow">
+        <item name="android:background">@drawable/card_menu_button_rounded_overflow</item>
+    </style>
+    <style name="card.header_button_frame">
+
+    </style>
+    <style name="card.header_compound_view">
+
+    </style>
+    <style name="card.header_outer_layout">
+        <item name="android:layout_marginTop">@dimen/card_header_outer_view_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/card_header_outer_view_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/card_header_outer_view_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/card_header_outer_view_margin_right</item>
+    </style>
+    <style name="card.header_simple_title">
+        <item name="android:textSize">@dimen/card_header_simple_title_text_size</item>
+        <item name="android:textColor">@color/card_text_color_header</item>
+        <item name="android:layout_gravity">left|center_vertical</item>
+        <item name="android:layout_marginLeft">@dimen/card_header_simple_title_margin_left</item>
+        <item name="android:layout_marginTop">@dimen/card_header_simple_title_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/card_header_simple_title_margin_right</item>
+        <item name="android:layout_marginBottom">@dimen/card_header_simple_title_margin_bottom</item>
+    </style>
+    <style name="card.main_contentExpand">
+        <item name="android:background">@color/card_backgroundExpand</item>
+        <item name="android:padding">@dimen/card_expand_layout_padding</item>
+    </style>
+    <style name="card.main_layout">
+        <item name="android:background">@drawable/card_selector</item>
+        <item name="android:layout_marginTop">@dimen/card_main_layout_view_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/card_main_layout_view_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/card_main_layout_view_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/card_main_layout_view_margin_right</item>
+    </style>
+    <style name="card.main_layout.kitkat">
+        <item name="android:background">@drawable/card_kitkat_selector</item>
+    </style>
+    <style name="card.main_layout_foreground">
+        <item name="android:background">@drawable/card_background</item>
+        <item name="android:foreground">@drawable/card_foreground_selector</item>
+        <item name="android:layout_marginTop">@dimen/card_main_layout_view_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/card_main_layout_view_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/card_main_layout_view_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/card_main_layout_view_margin_right</item>
+    </style>
+    <style name="card.main_layout_foreground.kitkat">
+        <item name="android:foreground">@drawable/card_foreground_kitkat_selector</item>
+    </style>
+    <style name="card.native">
+        <!-- this style should be empty -->
+    </style>
+    <style name="card.native.actions">
+        <item name="android:textSize">@dimen/actions_textsize</item>
+    </style>
+    <style name="card.native.actions.button">
+        <item name="android:layout_height">@dimen/actions_icon_height</item>
+        <item name="android:layout_width">@dimen/actions_icon_width</item>
+    </style>
+    <style name="card.native.base_simple_title">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/card_main_content_native_simple_title_text_size</item>
+        <item name="android:layout_gravity">left|center_vertical</item>
+        <item name="android:layout_marginLeft">@dimen/card_main_native_simple_title_margin_left</item>
+        <item name="android:layout_marginTop">@dimen/card_main_native_simple_title_margin_top</item>
+    </style>
+    <style name="card.native.card_thumbnail_image">
+        <item name="android:layout_width">@dimen/card_thumbnail_width</item>
+        <item name="android:layout_height">@dimen/card_thumbnail_height</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+    <style name="card.native.card_thumbnail_outer_layout">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="card.native.content_outer_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:minHeight">@dimen/card_base_empty_height</item>
+        <item name="android:paddingLeft">@dimen/card_main_content_native_default_paddingLeft</item>
+        <item name="android:paddingRight">@dimen/card_main_content_native_default_paddingRight</item>
+        <item name="android:paddingTop">@dimen/card_main_content_native_default_paddingTop</item>
+        <item name="android:paddingBottom">@dimen/card_main_content_native_default_paddingBottom</item>
+    </style>
+    <style name="card.native.content_outer_layout.cardwithlist">
+        <item name="android:paddingLeft">@dimen/card_main_content_native_cardwithlist_paddingLeft</item>
+        <item name="android:paddingRight">@dimen/card_main_content_native_cardwithlist_paddingRight</item>
+        <item name="android:paddingTop">@dimen/card_main_content_native_cardwithlist_paddingTop</item>
+        <item name="android:paddingBottom">@dimen/card_main_content_native_cardwithlist_paddingBottom</item>
+    </style>
+    <style name="card.native.expand_simple_title">
+        <item name="android:layout_gravity">left|center_vertical</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/card_expand_native_simple_title_text_size</item>
+        <item name="android:paddingLeft">@dimen/card_expand_native_simple_title_padding_left</item>
+        <item name="android:paddingRight">@dimen/card_expand_native_simple_title_padding_right</item>
+        <item name="android:textColor">@color/card_expand_title_color</item>
+    </style>
+    <style name="card.native.header_button_base">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">@dimen/card_header_native_button_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/card_header_native_button_margin_right</item>
+        <item name="android:paddingLeft">0dp</item>
+    </style>
+    <style name="card.native.header_button_base.expand">
+        <item name="android:background">@drawable/card_menu_button_expand_material_animator</item>
+    </style>
+    <style name="card.native.header_button_base.other">
+
+    </style>
+    <style name="card.native.header_button_base.overflow">
+        <item name="android:background">@drawable/card_menu_button_overflow_material</item>
+    </style>
+    <style name="card.native.header_button_frame">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="card.native.header_compound_view">
+
+    </style>
+    <style name="card.native.header_inner_frame">
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="card.native.header_outer_layout">
+        <item name="android:paddingLeft">@dimen/card_header_native_default_paddingLeft</item>
+        <item name="android:paddingRight">@dimen/card_header_native_default_paddingRight</item>
+        <item name="android:paddingTop">@dimen/card_header_native_default_paddingTop</item>
+        <item name="android:paddingBottom">@dimen/card_header_native_default_paddingBottom</item>
+    </style>
+    <style name="card.native.header_outer_layout.nomargin">
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+    </style>
+    <style name="card.native.header_simple_title">
+        <item name="android:textSize">@dimen/card_header_native_simple_title_text_size</item>
+        <item name="android:textColor">@color/card_text_color_header</item>
+        <item name="android:layout_gravity">left|center_vertical</item>
+        <item name="android:layout_marginLeft">@dimen/card_header_native_simple_title_margin_left</item>
+        <item name="android:layout_marginTop">@dimen/card_header_native_simple_title_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/card_header_native_simple_title_margin_right</item>
+        <item name="android:layout_marginBottom">@dimen/card_header_native_simple_title_margin_bottom</item>
+    </style>
+    <style name="card.native.main_contentExpand">
+        <item name="android:background">@color/card_backgroundExpand</item>
+        <item name="android:layout_marginLeft">@dimen/card_expand_native_margin_right</item>
+        <item name="android:layout_marginRight">@dimen/card_expand_native_margin_right</item>
+        <item name="android:paddingLeft">@dimen/card_expand_native_layout_padding_left</item>
+        <item name="android:paddingRight">@dimen/card_expand_native_layout_padding_right</item>
+        <item name="android:paddingTop">@dimen/card_expand_native_layout_padding_top</item>
+        <item name="android:paddingBottom">@dimen/card_expand_native_layout_padding_bottom</item>
+    </style>
+    <style name="card.native.main_layout">
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:layout_marginTop">@dimen/card_main_layout_native_view_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/card_main_layout_native_view_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/card_main_layout_native_view_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/card_main_layout_native_view_margin_right</item>
+    </style>
+    <style name="card.native.main_layout_foreground">
+        <item name="android:foreground">?android:selectableItemBackground</item>
+        <item name="android:background">@color/card_native_background</item>
+        <item name="android:layout_marginTop">@dimen/card_main_layout_native_view_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/card_main_layout_native_view_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/card_main_layout_native_view_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/card_main_layout_native_view_margin_right</item>
+    </style>
+    <style name="card.native.material_large_image_content_outer_layout" parent="card.native.content_outer_layout">
+        <item name="android:paddingLeft">@dimen/card_main_content_native_material_large_image_paddingLeft</item>
+        <item name="android:paddingRight">@dimen/card_main_content_native_material_large_image_paddingRight</item>
+        <item name="android:paddingTop">@dimen/card_main_content_native_material_large_image_paddingTop</item>
+        <item name="android:paddingBottom">@dimen/card_main_content_native_material_large_image_paddingBottom</item>
+    </style>
+    <style name="card.native.thumbnail_compound_view">
+
+    </style>
+    <style name="card.native.top_colored_layout">
+        <item name="android:minHeight">@dimen/card_topcolored_layout_minHeigth</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/card_topcolored_layout_padding</item>
+    </style>
+    <style name="card.native.top_colored_subtitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/card_topcolored_subtitle_textsize</item>
+        <item name="android:textColor">@color/card_topcolored_subtitle_textcolor</item>
+        <item name="android:layout_gravity">left|center_vertical</item>
+        <item name="android:paddingTop">@dimen/card_topcolored_subtitle_paddingtop</item>
+    </style>
+    <style name="card.native.top_colored_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/card_topcolored_title_textsize</item>
+        <item name="android:textColor">@color/card_topcolored_title_textcolor</item>
+        <item name="android:layout_gravity">left|center_vertical</item>
+    </style>
+    <style name="card.shadow_image">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/card_shadow_height</item>
+        <item name="android:src">@drawable/card_shadow</item>
+        <item name="android:layout_below">@+id/card_main_content_layout</item>
+    </style>
+    <style name="card.shadow_outer_layout">
+        <item name="android:layout_marginTop">@dimen/card_shadow_view_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/card_shadow_view_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/card_shadow_view_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/card_shadow_view_margin_right</item>
+    </style>
+    <style name="card.thumbnail_compound_view"/>
+    <style name="card_external">
+        <item name="android:layout_marginTop">@dimen/card_default_native_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/card_default_native_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/card_default_native_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/card_default_native_margin_right</item>
+    </style>
+    <style name="card_section_container">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">@dimen/card_section_container_padding_left</item>
+        <item name="android:paddingRight">@dimen/card_section_container_padding_right</item>
+        <item name="android:background">@color/card_section_container_color</item>
+    </style>
+    <style name="card_section_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:textSize">@dimen/card_section_title</item>
+        <item name="android:textColor">@color/card_section_title_color</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_marginTop">@dimen/card_section_title_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/card_section_title_margin_top</item>
+    </style>
+    <style name="card_thumbnail_image">
+        <item name="android:layout_width">@dimen/card_thumbnail_width</item>
+        <item name="android:layout_height">@dimen/card_thumbnail_height</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+    <style name="card_thumbnail_image_text_over_textstyle">
+        <item name="android:textColor">@color/card_thumbnail_image_text_over_textcolor</item>
+        <item name="android:textSize">@dimen/card_thumbnail_image_text_over_textsize</item>
+    </style>
+    <style name="card_thumbnail_outer_layout">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="cardwithlist">
+        <item name="android:layout_marginTop">@dimen/card_base_cardwithlist_list_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/card_base_cardwithlist_list_margin_left</item>
+        <item name="android:divider">@color/card_base_cardwithlist_divider_color</item>
+        <item name="android:showDividers">middle|beginning</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/card_base_cardwithlist_background_list_color</item>
+    </style>
+    <style name="grid_card">
+        <item name="android:paddingLeft">@dimen/grid_card_padding_left</item>
+        <item name="android:paddingRight">@dimen/grid_card_padding_right</item>
+        <item name="android:paddingBottom">@dimen/grid_card_padding_bottom</item>
+        <item name="android:paddingTop">@dimen/grid_card_padding_top</item>
+    </style>
+    <style name="list_card">
+        <item name="android:paddingLeft">@dimen/list_card_padding_left</item>
+        <item name="android:paddingRight">@dimen/list_card_padding_right</item>
+        <item name="android:paddingBottom">@dimen/list_card_padding_bottom</item>
+        <item name="android:paddingTop">@dimen/list_card_padding_top</item>
+    </style>
+    <style name="list_card.base">
+
+    </style>
+    <style name="list_card.thumbnail">
+
+    </style>
+    <style name="list_card_UndoBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/undobar</item>
+        <item name="android:clickable">true</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:divider">@drawable/undobar_divider</item>
+        <item name="android:dividerPadding">10dp</item>
+    </style>
+    <style name="list_card_UndoBarButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:background">@drawable/card_undo</item>
+        <item name="android:drawableLeft">@drawable/ic_undobar_undo</item>
+        <item name="android:drawablePadding">12dp</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:text">@string/list_card_undo_title</item>
+    </style>
+    <style name="list_card_UndoBarButton_material">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">right</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/card_undobar_material_text_color</item>
+        <item name="android:text">@string/list_card_undo_title</item>
+    </style>
+    <style name="list_card_UndoBarButton_materialmobile">
+        <item name="android:layout_gravity">center_vertical|right</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">18dp</item>
+        <item name="android:paddingTop">18dp</item>
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:paddingRight">24dp</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/card_undobar_material_text_color</item>
+        <item name="android:text">@string/list_card_undo_title</item>
+    </style>
+    <style name="list_card_UndoBarMessage">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textColor">#fff</item>
+
+    </style>
+    <style name="list_card_UndoBarMessage_material">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="list_card_UndoBarMessage_materialmobile">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:layout_marginBottom">18dp</item>
+        <item name="android:layout_marginTop">18dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="list_card_UndoBar_material">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">56dp</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:layout_marginLeft">32dp</item>
+        <item name="android:layout_marginRight">32dp</item>
+        <item name="android:layout_marginBottom">24dp</item>
+        <item name="android:paddingBottom">18dp</item>
+        <item name="android:paddingTop">18dp</item>
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:paddingRight">24dp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@color/card_undobar_material_background_color</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="list_card_UndoBar_materialmobile">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">56dp</item>
+        <item name="android:maxHeight">80dp</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginRight">0dp</item>
+        <item name="android:layout_marginBottom">0dp</item>
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@color/card_undobar_material_background_color</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="native_cardwithlist">
+        <item name="android:layout_marginTop">@dimen/card_base_cardwithlist_list_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/card_base_cardwithlist_list_margin_left</item>
+        <item name="android:divider">@color/card_native_base_cardwithlist_divider_color</item>
+        <item name="android:showDividers">middle|beginning</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/card_native_base_cardwithlist_background_list_color</item>
+    </style>
+    <style name="native_grid_card">
+        <item name="android:paddingLeft">@dimen/grid_card_padding_left</item>
+        <item name="android:paddingRight">@dimen/grid_card_padding_right</item>
+        <item name="android:paddingBottom">@dimen/grid_card_padding_bottom</item>
+        <item name="android:paddingTop">@dimen/grid_card_padding_top</item>
+    </style>
+    <style name="native_list_card">
+        <item name="android:layout_marginLeft">@dimen/native_list_card_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/native_list_card_margin_right</item>
+        <item name="android:layout_marginBottom">@dimen/native_list_card_margin_bottom</item>
+        <item name="android:layout_marginTop">@dimen/native_list_card_margin_top</item>
+    </style>
+    <style name="native_list_card.base">
+
+    </style>
+    <style name="native_list_card.thumbnail">
+
+    </style>
+    <style name="native_list_external">
+        <item name="android:clipToPadding">false</item>
+        <item name="android:scrollbarStyle">outsideOverlay</item>
+    </style>
+    <style name="native_recyclerview_card">
+        <item name="android:layout_marginLeft">@dimen/native_recyclerview_card_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/native_recyclerview_card_margin_right</item>
+        <item name="android:layout_marginBottom">@dimen/native_recyclerview_card_margin_bottom</item>
+        <item name="android:layout_marginTop">@dimen/native_recyclerview_card_margin_top</item>
+    </style>
+    <style name="native_recyclerview_card.base">
+
+    </style>
+    <style name="native_recyclerview_card.thumbnail">
+
+    </style>
 </resources>
