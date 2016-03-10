@@ -8,13 +8,20 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainAppIntro">
+        <activity android:name=".Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".MainAppIntro">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
         <activity android:name=".Main">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,12 +29,15 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name=".Splash" />
         <activity android:name=".Java" />
         <activity android:name=".TheMug" />
         <activity android:name=".CafeDeli" />
         <activity android:name=".Dormans" />
         <activity android:name=".ArtCaffe"></activity>
+=======
+>>>>>>> 64171949db11f9a834c0e529508853d9884406ea
     </application>
 
 </manifest>

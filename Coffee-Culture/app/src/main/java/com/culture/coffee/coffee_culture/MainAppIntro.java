@@ -1,5 +1,7 @@
 package com.culture.coffee.coffee_culture;
 
+
+import android.content.Context;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
@@ -11,7 +13,6 @@ import com.github.paolorotolo.appintro.AppIntro;
  * Created by mue on 3/9/16.
  */
 public class MainAppIntro extends AppIntro {
-
     // Please DO NOT override onCreate. Use init.
     @Override
     public void init(Bundle savedInstanceState) {
@@ -21,7 +22,7 @@ public class MainAppIntro extends AppIntro {
         addSlide(SampleSlide.newInstance(R.layout.first_fragment));
         addSlide(SampleSlide.newInstance(R.layout.second_fragment));
         addSlide(SampleSlide.newInstance(R.layout.third_fragment));
-        addSlide(SampleSlide.newInstance(R.layout.fourth_fragment));
+//        addSlide(SampleSlide.newInstance(R.layout.fourth_fragment));
 
         // Instead of fragments, you can also use our default slide
         // Just set a title, description, background and image. AppIntro will do the rest.
@@ -38,11 +39,12 @@ public class MainAppIntro extends AppIntro {
 
         // Turn vibration on and set intensity.
         // NOTE: you will probably need to ask VIBRATE permisssion in Manifest.
-        setVibrate(true);
-        setVibrateIntensity(30);
+//        setVibrate(true);
+//        setVibrateIntensity(30);
     }
     private void loadMain(){
-        Intent intent = new Intent(this, Main.class);
+        final Context context = this;
+        Intent intent = new Intent(context, Main.class);
         startActivity(intent);
     }
 

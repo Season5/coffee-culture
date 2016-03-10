@@ -8,28 +8,32 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.culture.coffee.coffee_culture.Main"
-    android:background="#956552">
+    android:background="#780606">
 
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Coffee Culture"
         android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:textColor="#ecaf06"
+        android:textSize="40sp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_marginLeft="98dp"
-        android:layout_marginStart="98dp"
-        android:layout_alignParentTop="true" />
+        android:textAlignment="center" />
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Yet To Be Built"
         android:id="@+id/textView2"
         android:layout_centerVertical="true"
         android:layout_alignRight="@+id/textView"
-        android:layout_alignEnd="@+id/textView" />
+        android:layout_alignEnd="@+id/textView"
+        android:textColor="#ecaf06"
+        android:textSize="40sp"
+        android:textAlignment="center" />
 </RelativeLayout>
