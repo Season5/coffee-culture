@@ -29,12 +29,20 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name=".Splash" />
+=======
+        
+>>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
         <activity android:name=".Java" />
         <activity android:name=".TheMug" />
         <activity android:name=".CafeDeli" />
         <activity android:name=".Dormans" />
         <activity android:name=".ArtCaffe"></activity>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
     </application>
 
 </manifest>

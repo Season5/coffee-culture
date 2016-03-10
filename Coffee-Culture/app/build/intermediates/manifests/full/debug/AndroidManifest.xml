@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.culture.coffee.coffee_culture"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.culture.coffee.coffee_culture.Splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.culture.coffee.coffee_culture.MainAppIntro" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.culture.coffee.coffee_culture.Main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+        <activity android:name="com.culture.coffee.coffee_culture.Splash" />
+>>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
+        <activity android:name="com.culture.coffee.coffee_culture.Java" />
+        <activity android:name="com.culture.coffee.coffee_culture.TheMug" />
+        <activity android:name="com.culture.coffee.coffee_culture.CafeDeli" />
+        <activity android:name="com.culture.coffee.coffee_culture.Dormans" />
+        <activity android:name="com.culture.coffee.coffee_culture.ArtCaffe" />
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
+>>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
+    </application>
+
+</manifest>
