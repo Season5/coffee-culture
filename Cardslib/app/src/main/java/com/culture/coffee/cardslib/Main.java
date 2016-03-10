@@ -1,4 +1,4 @@
-package com.culture.coffee.coffee_culture;
+package com.culture.coffee.cardslib;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

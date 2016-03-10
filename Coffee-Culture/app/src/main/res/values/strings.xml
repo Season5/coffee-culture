@@ -2,4 +2,5 @@
     <string name="app_name">Coffee-Culture</string>
     <string name="skip">Skipping</string>
     <string name="First">first</string>
+    <string name="txt">Coffee Culture When attempting to obtain an authentication token, the Kit will use the locally installed Twitter app to offer a single sign-on experience. If the Kit is unable to access the authentication token through the Twitter app, it falls back to using a web view to finish the OAuth process</string>
 </resources>
