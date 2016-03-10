@@ -1,6 +1,10 @@
 [
     {
-        "outputFile": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/values-sw600dp-v13/values-sw600dp-v13.xml",
+<<<<<<< HEAD
+        "outputFile": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+        "outputFile": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+<<<<<<< HEAD
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 189
                 },
                 "from": {
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+<<<<<<< HEAD
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +61,11 @@
                     "endOffset": 263
                 },
                 "from": {
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+<<<<<<< HEAD
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +84,11 @@
                     "endOffset": 339
                 },
                 "from": {
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+<<<<<<< HEAD
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +107,11 @@
                     "endOffset": 398
                 },
                 "from": {
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+<<<<<<< HEAD
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +130,11 @@
                     "endOffset": 469
                 },
                 "from": {
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+<<<<<<< HEAD
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +153,11 @@
                     "endOffset": 537
                 },
                 "from": {
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+<<<<<<< HEAD
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +176,11 @@
                     "endOffset": 592
                 },
                 "from": {
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+<<<<<<< HEAD
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

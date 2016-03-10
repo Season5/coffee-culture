@@ -1,6 +1,10 @@
 [
     {
-        "outputFile": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+<<<<<<< HEAD
+        "outputFile": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+=======
+        "outputFile": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+>>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+<<<<<<< HEAD
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+=======
+                    "file": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+>>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
