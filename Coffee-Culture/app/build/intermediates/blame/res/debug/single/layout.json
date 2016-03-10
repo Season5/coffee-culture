@@ -1,779 +1,214 @@
 [
     {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_select_dialog_material.xml"
     },
     {
-=======
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_layout.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_chronometer.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/art_caffe.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/art_caffe.xml"
-=======
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/default_indicator.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/default_indicator.xml"
-=======
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
-=======
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/default_indicator.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/default_indicator.xml"
->>>>>>> 64171949db11f9a834c0e529508853d9884406ea
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/java.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/java.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/art_caffe.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/art_caffe.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/splash.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_item_material.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/third_fragment.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/third_fragment.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_lines.xml"
     },
     {
-=======
-<<<<<<< HEAD
-=======
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_toolbar.xml"
     },
     {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/cafe_deli.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/cafe_deli.xml"
-<<<<<<< HEAD
-=======
-=======
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/third_fragment.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/third_fragment.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_popup_menu_item_layout.xml"
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_action.xml"
     },
     {
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/java.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/java.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/default_indicator.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/default_indicator.xml"
-=======
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/intro_layout.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/intro_layout.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/splash.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/splash.xml"
-=======
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_action.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/progress_indicator.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/progress_indicator.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_time.xml"
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/fourth_fragment.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/fourth_fragment.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_layout.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_time.xml"
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/art_caffe.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/art_caffe.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_content_include.xml"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_toolbar.xml"
-=======
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_item_layout.xml"
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/splash.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/splash.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_view.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_toolbar.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/third_fragment.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/third_fragment.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_dialog_title_material.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/fourth_fragment.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/fourth_fragment.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple.xml"
-=======
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/fourth_fragment.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/fourth_fragment.xml"
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_select_dialog_material.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_up_container.xml"
     },
     {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/second_fragment.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/second_fragment.xml"
     },
     {
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/third_fragment.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/third_fragment.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_media.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
-=======
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_cancel_action.xml"
-=======
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media_narrow.xml"
-=======
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/third_fragment.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/third_fragment.xml"
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_content_include.xml"
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/cafe_deli.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/cafe_deli.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_item_material.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media_narrow.xml"
-=======
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_expanded_menu_layout.xml"
-<<<<<<< HEAD
-=======
->>>>>>> 64171949db11f9a834c0e529508853d9884406ea
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/main.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_content_include.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/default_indicator.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/default_indicator.xml"
     },
     {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_expanded_menu_layout.xml"
-=======
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/the_mug.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/the_mug.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/fourth_fragment.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/fourth_fragment.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/progress_indicator.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/progress_indicator.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/art_caffe.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/art_caffe.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/fragment_intro.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/fragment_intro.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_bar.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_view.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_media.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/intro_layout.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/intro_layout.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/dormans.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/dormans.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_lines.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/first_fragment.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/first_fragment.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_dialog_title_material.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/third_fragment.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/third_fragment.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_dialog_title_material.xml"
     },
     {
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/default_indicator.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/default_indicator.xml"
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/cafe_deli.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/cafe_deli.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/dormans.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/dormans.xml"
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/intro_layout2.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/intro_layout2.xml"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/fourth_fragment.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/fourth_fragment.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_view.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_media.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_item_material.xml"
-=======
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/intro_layout.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/intro_layout.xml"
-=======
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_item_material.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_layout.xml"
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_lines.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/default_indicator.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/default_indicator.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/first_fragment.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/first_fragment.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_media.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/progress_indicator.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/progress_indicator.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_up_container.xml"
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/the_mug.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/the_mug.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/fragment_intro.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/fragment_intro.xml"
-=======
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/intro_layout.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/intro_layout.xml"
-    },
-    {
-=======
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/fragment_intro.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/fragment_intro.xml"
-=======
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/splash.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/splash.xml"
-=======
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_lines.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/splash.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/splash.xml"
-=======
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view.xml"
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_icon.xml"
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 64171949db11f9a834c0e529508853d9884406ea
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/main.xml"
-=======
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_chronometer.xml"
-=======
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple.xml"
-=======
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/second_fragment.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/second_fragment.xml"
->>>>>>> 64171949db11f9a834c0e529508853d9884406ea
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/second_fragment.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/second_fragment.xml"
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_view.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/dormans.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/dormans.xml"
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
-=======
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/progress_indicator.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/progress_indicator.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/java.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/java.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_part_time.xml"
-=======
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_lines.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_cancel_action.xml"
-=======
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_lines.xml"
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_toolbar.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_dialog_title_material.xml"
-=======
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
-=======
-<<<<<<< HEAD
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/layout/main.xml"
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_lines.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/second_fragment.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/second_fragment.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media_narrow.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/main.xml"
-=======
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_radio.xml"
-=======
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_radio.xml"
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_media_action.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-<<<<<<< HEAD
-=======
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_layout.xml"
-    },
-    {
-=======
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_layout.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/the_mug.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/the_mug.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/first_fragment.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/first_fragment.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_alert_dialog_material.xml"
-=======
-<<<<<<< HEAD
-=======
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/layout/main.xml"
-    },
-    {
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_screen_content_include.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media.xml"
-    },
-    {
-=======
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
-<<<<<<< HEAD
-=======
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/notification_template_big_media.xml"
-    },
-    {
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/fragment_intro.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/fragment_intro.xml"
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_popup_menu_item_layout.xml"
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
-    },
-    {
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_action_menu_item_layout.xml"
-=======
-        "merged": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/intro_layout2.xml",
-        "source": "/home/joseph/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/layout/intro_layout2.xml"
->>>>>>> 2a7ce578da742ec27cd024a5b8323818a70ea5b0
+        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
     }
 ]
