@@ -14,14 +14,18 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.culture.coffee.coffee_culture.Splash" >
+
+        <!-- <activity android:name=".Splash"> -->
+        <!-- <activity android:name=".CardListActivity"> -->
+        <activity android:name="com.culture.coffee.coffee_culture.ArtCaffe" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.culture.coffee.coffee_culture.MainAppIntro" >
+        <!-- <activity android:name=".MainAppIntro"> -->
+        <activity android:name="com.culture.coffee.coffee_culture.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -39,7 +43,12 @@
         <activity android:name="com.culture.coffee.coffee_culture.TheMug" />
         <activity android:name="com.culture.coffee.coffee_culture.CafeDeli" />
         <activity android:name="com.culture.coffee.coffee_culture.Dormans" />
+<<<<<<< HEAD
         <activity android:name="com.culture.coffee.coffee_culture.ArtCaffe" />
+=======
+        <!-- <activity android:name=".ArtCaffe"></activity> -->
+
+>>>>>>> Imaya
     </application>
 
 </manifest>

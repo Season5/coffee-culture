@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/values-w500dp-v13/values-w500dp-v13.xml",
+=======
+        "outputFile": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/values-w500dp-v13/values-w500dp-v13.xml",
+>>>>>>> Imaya
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 105
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-w500dp-v13/values-w500dp-v13.xml",
+=======
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-w500dp-v13/values-w500dp-v13.xml",
+>>>>>>> Imaya
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

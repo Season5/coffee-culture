@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+=======
+        "outputFile": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+>>>>>>> Imaya
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 112
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-land/values-land.xml",
+=======
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-land/values-land.xml",
+>>>>>>> Imaya
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 184
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-land/values-land.xml",
+=======
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-land/values-land.xml",
+>>>>>>> Imaya
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +61,11 @@
                     "endOffset": 254
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-land/values-land.xml",
+=======
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-land/values-land.xml",
+>>>>>>> Imaya
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +84,11 @@
                     "endOffset": 318
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-land/values-land.xml",
+=======
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-land/values-land.xml",
+>>>>>>> Imaya
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +107,11 @@
                     "endOffset": 389
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-land/values-land.xml",
+=======
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-land/values-land.xml",
+>>>>>>> Imaya
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,13 +130,38 @@
                     "endOffset": 457
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-land/values-land.xml",
+=======
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-land/values-land.xml",
+>>>>>>> Imaya
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
                         "startOffset": 394,
                         "endColumn": 67,
                         "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
                     }
                 }
             }

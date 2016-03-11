@@ -2,4 +2,13 @@
     <string name="app_name">Coffee-Culture</string>
     <string name="skip">Skipping</string>
     <string name="First">first</string>
+
+    <string name="ttle">Java Hotel</string>
+    <string name="about">About</string>
+    <string name="content">I am sure you are excited to read and explore about cards libraries existed on web. As I said, Google play store UI is built around card.</string>
+    <string name="contact">Contact</string>
+    <string name="contacts">Phone: 0700148596</string>
+    <string name="contacts1">twitter: @ArtCaffee</string>
+    <string name="contacts2">Website: www.artcaffe.com</string>
+
 </resources>
