@@ -16,7 +16,8 @@
         android:theme="@style/AppTheme" >
 
         <!-- <activity android:name=".Splash"> -->
-        <activity android:name="com.culture.coffee.coffee_culture.CardListActivity" >
+        <!-- <activity android:name=".CardListActivity"> -->
+        <activity android:name="com.culture.coffee.coffee_culture.ArtCaffe" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -42,7 +43,8 @@
         <activity android:name="com.culture.coffee.coffee_culture.TheMug" />
         <activity android:name="com.culture.coffee.coffee_culture.CafeDeli" />
         <activity android:name="com.culture.coffee.coffee_culture.Dormans" />
-        <activity android:name="com.culture.coffee.coffee_culture.ArtCaffe" />
+        <!-- <activity android:name=".ArtCaffe"></activity> -->
+
     </application>
 
 </manifest>
