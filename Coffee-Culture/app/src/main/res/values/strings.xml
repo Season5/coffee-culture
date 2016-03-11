@@ -2,4 +2,8 @@
     <string name="app_name">Coffee-Culture</string>
     <string name="skip">Skipping</string>
     <string name="First">first</string>
+    <string name="about">About</string>
+    <string name="ttle">Java Hotel</string>
+    <string name="content">I am sure you are excited to read and explore about cards libraries existed on web. As I said, Google play store UI is built around card, we can build the same card UI either defining our own custom adapter with styles or we can achieve this type of card UI directly by using some open-source card libraries.</string>
+    <string name="contact">Contact</string>
 </resources>

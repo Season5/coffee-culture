@@ -42,4 +42,6 @@ dependencies {
 
     //Optional for twoway  (coming soon)
     //compile 'com.github.gabrielemariotti.cards:cardslib-extra-twoway:2.1.0'
+    compile 'com.android.support:design:23.2.0'
+
 }

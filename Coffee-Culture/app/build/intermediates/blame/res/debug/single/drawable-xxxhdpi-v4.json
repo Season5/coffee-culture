@@ -40,12 +40,12 @@
         "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_material.png",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-xxxhdpi/abc_ic_menu_paste_material.png"
-    },
-    {
         "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_overflow_material.png",
         "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-xxxhdpi/abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_material.png",
+        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-xxxhdpi/abc_ic_menu_paste_material.png"
     },
     {
         "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_copy_material.png",
@@ -72,24 +72,24 @@
         "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/res/drawable-xxxhdpi-v4/ic_arrow_forward_white_24px.png"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_more_vert_black_24dp.png",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-xxxhdpi/ic_more_vert_black_24dp.png"
-    },
-    {
         "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_on_mtrl.png",
         "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-xxxhdpi/abc_btn_radio_on_mtrl.png"
+    },
+    {
+        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_more_vert_black_24dp.png",
+        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-xxxhdpi/ic_more_vert_black_24dp.png"
     },
     {
         "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png",
         "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_chevron_right_grey600_24dp.png",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-xxxhdpi/ic_chevron_right_grey600_24dp.png"
-    },
-    {
         "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_chevron_right_grey600_24dp.png",
+        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-xxxhdpi/ic_chevron_right_grey600_24dp.png"
     },
     {
         "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_selectall_material.png",
@@ -100,12 +100,12 @@
         "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_go_search_api_material.png",
-        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-xxxhdpi/abc_ic_go_search_api_material.png"
-    },
-    {
         "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_go_search_api_material.png",
+        "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/generated/res/pngs/debug/drawable-xxxhdpi/abc_ic_go_search_api_material.png"
     },
     {
         "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_expand_less_grey600_24dp.png",
