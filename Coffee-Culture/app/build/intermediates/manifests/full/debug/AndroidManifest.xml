@@ -14,14 +14,18 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.culture.coffee.coffee_culture.Splash" >
+
+        <!-- <activity android:name=".Splash"> -->
+        <!-- <activity android:name=".CardListActivity"> -->
+        <activity android:name="com.culture.coffee.coffee_culture.ArtCaffe" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.culture.coffee.coffee_culture.MainAppIntro" >
+        <!-- <activity android:name=".MainAppIntro"> -->
+        <activity android:name="com.culture.coffee.coffee_culture.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -35,21 +39,12 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-        <activity android:name="com.culture.coffee.coffee_culture.Splash" />
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
         <activity android:name="com.culture.coffee.coffee_culture.Java" />
         <activity android:name="com.culture.coffee.coffee_culture.TheMug" />
         <activity android:name="com.culture.coffee.coffee_culture.CafeDeli" />
         <activity android:name="com.culture.coffee.coffee_culture.Dormans" />
-        <activity android:name="com.culture.coffee.coffee_culture.ArtCaffe" />
-<<<<<<< HEAD
-=======
-=======
->>>>>>> ba072a33278c4bd4ece24efa5964cf487341377d
->>>>>>> 31a57eca542d38256d25b53d33f20c4cd4cf4a0d
+        <!-- <activity android:name=".ArtCaffe"></activity> -->
+
     </application>
 
 </manifest>
