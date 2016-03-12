@@ -37,11 +37,8 @@
         <activity android:name=".TheMug" />
         <activity android:name=".CafeDeli" />
         <activity android:name=".Dormans" />
-<<<<<<< HEAD
-        <activity android:name=".ArtCaffe"></activity>
-=======
         <!--<activity android:name=".ArtCaffe"></activity>-->
->>>>>>> Imaya
+
 
     </application>
 

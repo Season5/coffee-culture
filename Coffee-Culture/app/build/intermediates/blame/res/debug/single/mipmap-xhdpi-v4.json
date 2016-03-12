@@ -1,11 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "merged": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
-        "source": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-=======
         "merged": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
         "source": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
->>>>>>> Imaya
     }
 ]
