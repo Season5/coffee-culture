@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "outputFile": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
-=======
         "outputFile": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
->>>>>>> Imaya
         "map": [
             {
                 "to": {
@@ -148,11 +144,7 @@
                     "endOffset": 676
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -171,11 +163,7 @@
                     "endOffset": 779
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -194,11 +182,7 @@
                     "endOffset": 882
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -217,11 +201,7 @@
                     "endOffset": 987
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -240,11 +220,7 @@
                     "endOffset": 1094
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -263,11 +239,7 @@
                     "endOffset": 1203
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -286,11 +258,7 @@
                     "endOffset": 1312
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -309,11 +277,7 @@
                     "endOffset": 1421
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -332,11 +296,7 @@
                     "endOffset": 1530
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -355,11 +315,7 @@
                     "endOffset": 1639
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -378,11 +334,7 @@
                     "endOffset": 1746
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -401,11 +353,7 @@
                     "endOffset": 1849
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -424,11 +372,7 @@
                     "endOffset": 1968
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -448,11 +392,7 @@
                     "endOffset": 2123
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -473,11 +413,7 @@
                     "endOffset": 2278
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -497,11 +433,7 @@
                     "endOffset": 2383
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -520,11 +452,7 @@
                     "endOffset": 2504
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -543,11 +471,7 @@
                     "endOffset": 2605
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -567,11 +491,7 @@
                     "endOffset": 2752
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -592,11 +512,7 @@
                     "endOffset": 2893
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -616,11 +532,7 @@
                     "endOffset": 2996
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -639,11 +551,7 @@
                     "endOffset": 3115
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -662,11 +570,7 @@
                     "endOffset": 3222
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -685,11 +589,7 @@
                     "endOffset": 3325
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -709,11 +609,7 @@
                     "endOffset": 3480
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -734,11 +630,7 @@
                     "endOffset": 3651
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -759,11 +651,7 @@
                     "endOffset": 3800
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -784,11 +672,7 @@
                     "endOffset": 3965
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -809,11 +693,7 @@
                     "endOffset": 4122
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -834,11 +714,7 @@
                     "endOffset": 4273
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -858,11 +734,7 @@
                     "endOffset": 4392
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -882,11 +754,7 @@
                     "endOffset": 4541
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -907,11 +775,7 @@
                     "endOffset": 4690
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -931,11 +795,7 @@
                     "endOffset": 4802
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -954,11 +814,7 @@
                     "endOffset": 4949
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -978,11 +834,7 @@
                     "endOffset": 5102
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -1003,11 +855,7 @@
                     "endOffset": 5249
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -1027,11 +875,7 @@
                     "endOffset": 5324
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -1050,11 +894,7 @@
                     "endOffset": 5413
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -1073,11 +913,7 @@
                     "endOffset": 5500
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -1096,11 +932,7 @@
                     "endOffset": 5601
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -1120,11 +952,7 @@
                     "endOffset": 8669
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -1145,11 +973,7 @@
                     "endOffset": 8855
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 101,
                         "startColumn": 4,
@@ -1170,11 +994,7 @@
                     "endOffset": 11935
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 104,
                         "startColumn": 4,
@@ -1195,11 +1015,7 @@
                     "endOffset": 12133
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 148,
                         "startColumn": 4,
@@ -1220,11 +1036,7 @@
                     "endOffset": 12256
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 151,
                         "startColumn": 4,
@@ -1245,11 +1057,7 @@
                     "endOffset": 12379
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 153,
                         "startColumn": 4,
@@ -1270,11 +1078,7 @@
                     "endOffset": 12492
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 155,
                         "startColumn": 4,
@@ -1295,11 +1099,7 @@
                     "endOffset": 12675
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -1320,11 +1120,7 @@
                     "endOffset": 12806
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -1345,11 +1141,7 @@
                     "endOffset": 13007
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -1369,11 +1161,7 @@
                     "endOffset": 13096
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 165,
                         "startColumn": 4,
@@ -1392,11 +1180,7 @@
                     "endOffset": 13207
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -1415,11 +1199,7 @@
                     "endOffset": 13334
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 167,
                         "startColumn": 4,
@@ -1438,11 +1218,7 @@
                     "endOffset": 13435
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 168,
                         "startColumn": 4,
@@ -1461,11 +1237,7 @@
                     "endOffset": 13530
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -1484,11 +1256,7 @@
                     "endOffset": 13653
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
@@ -1507,11 +1275,7 @@
                     "endOffset": 13782
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -1530,11 +1294,7 @@
                     "endOffset": 13899
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
@@ -1554,11 +1314,7 @@
                     "endOffset": 14076
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
@@ -1578,11 +1334,7 @@
                     "endOffset": 14175
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -1602,11 +1354,7 @@
                     "endOffset": 14310
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -1627,11 +1375,7 @@
                     "endOffset": 14453
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1652,11 +1396,7 @@
                     "endOffset": 14588
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1677,11 +1417,7 @@
                     "endOffset": 14707
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1702,11 +1438,7 @@
                     "endOffset": 14908
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
@@ -1727,11 +1459,7 @@
                     "endOffset": 15027
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 189,
                         "startColumn": 4,
@@ -1751,11 +1479,7 @@
                     "endOffset": 15120
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1774,11 +1498,7 @@
                     "endOffset": 15231
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1797,11 +1517,7 @@
                     "endOffset": 15287
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
@@ -1821,11 +1537,7 @@
                     "endOffset": 15394
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1846,11 +1558,7 @@
                     "endOffset": 15589
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1871,11 +1579,7 @@
                     "endOffset": 15700
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1896,11 +1600,7 @@
                     "endOffset": 15833
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1920,11 +1620,7 @@
                     "endOffset": 15928
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1943,11 +1639,7 @@
                     "endOffset": 16019
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1966,11 +1658,7 @@
                     "endOffset": 16110
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 206,
                         "startColumn": 4,
@@ -1989,11 +1677,7 @@
                     "endOffset": 16227
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -2013,11 +1697,7 @@
                     "endOffset": 16366
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 208,
                         "startColumn": 4,
@@ -2038,11 +1718,7 @@
                     "endOffset": 16879
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 210,
                         "startColumn": 4,
@@ -2063,11 +1739,7 @@
                     "endOffset": 17404
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -2088,11 +1760,7 @@
                     "endOffset": 18084
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -2112,11 +1780,7 @@
                     "endOffset": 18141
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 240,
                         "startColumn": 4,
@@ -2135,11 +1799,7 @@
                     "endOffset": 18199
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/home/mue/AndroidStudioProjects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-=======
                     "file": "/home/imaya/android-projects/coffee-culture/Coffee-Culture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
->>>>>>> Imaya
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
